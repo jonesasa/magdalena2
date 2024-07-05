@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ADAN Y MARKEL</string>
+    <string name="title_home">INICIO</string>
+    <string name="title_dashboard">MAPA</string>
+    <string name="title_notifications">GALERIA</string>
+    <string name="cursos">Cursos:</string>
+    <string name="texto">texto</string>
+    <string name="aaaa">•</string>
+    <string name="interior">Interior</string>
+    <string name="textExterior">exterior</string>
+    <string name="FragmentoInterior">FragmentoInterior</string>
+    <string name="imagen">imagen</string>
+    <string name="hint_longitud">longitud</string>
+    <string name="hint_latitud">latitud</string>
+    <string name="titulo">Titulo</string>
+    <string name="foto">foto</string>
+</resources>
